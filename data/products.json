@@ -1,0 +1,27 @@
+[
+    {
+        "productID":"45000",
+        "title": "book"
+    },
+    {
+        "productID":"23453",
+        "title": "book",
+        "description": "this is good book ",
+        "price": "240",
+        "imageUrl": "400"
+    },
+    {
+        "productID":"1123",
+        "title": "pencil",
+        "description": "tis is bad",
+        "price": "345",
+        "imageUrl": "https://www.britannica.com/topic/book-publication"
+    },
+    {
+        "productID":"4523",
+        "title": "dress",
+        "description": "pretty mee",
+        "price": "10000",
+        "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jovifashion.com%2Fproduct%2Fyellow-tiered-dress-20775.html&psig=AOvVaw2ae9X4tw4zxGdpT8k4D2z5&ust=1702547531270000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjqmfmRjIMDFQAAAAAdAAAAABAD"
+    }
+]
